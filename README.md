@@ -3,7 +3,7 @@
 
 |**Nama**|**NIM**|**Kelas**|**Matkul**|
 |----|---|-----|------|
-|DAFFA SADEWA PUTRA|312310463|TI.23.A.5|Basis Data|
+|Daffa Sadewa P|312310463|TI.23.A.5|Basis Data|
 
 # Studi Kasus: ERD Karyawan
 
