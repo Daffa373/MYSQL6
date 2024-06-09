@@ -3,7 +3,7 @@
 
 |**Nama**|**NIM**|**Kelas**|**Matkul**|
 |----|---|-----|------|
-|AFRYAN DHINAR R.p|312310467|TI.23.A.5|Basis Data|
+|DAFFA SADEWA PUTRA|312310463|TI.23.A.5|Basis Data|
 
 # Studi Kasus: ERD Karyawan
 
