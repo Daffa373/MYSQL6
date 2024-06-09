@@ -26,7 +26,7 @@ Sebuah perusahaan ingin membuat sistem untuk pengeloalaan data karyawan pada per
 Buatlah desain databasenya (ER-Diagram), beserta tabel datanya ?
 
 # ERD
-![alt text](gambar/database.png)
+![alt text](gambar/DATABASE1.png)
 
 # PENGOLAHAN DATA KARYAWAN
 # Tabel Departement
